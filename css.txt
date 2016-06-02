@@ -1,0 +1,87 @@
+
+
+.nav li {
+  display: inline;
+  font-size:15px;
+  color:white;
+}
+
+.nav {
+  margin: 10px;
+  background-color:#303030;
+  padding:20px;
+  border-radius: 25px;
+}
+
+.nav1 {
+  padding-left:290px
+}
+
+.logo1 {
+  font-family:verdana;
+  font-weight: bold;
+  margin:10px;
+}
+
+.nav a {
+  padding: 15px 20px 20px 20px;
+  color: white;
+  font-family:tahoma;
+  border-radius: 25px;
+  
+}
+
+}
+
+.container {
+  position: relative;
+}
+
+.container h1 {
+  position:relative;
+  padding-left:630px;
+  color: #990000;
+  padding-top:50px;
+}
+
+.jumbotron {
+  background-image:url(https://scontent.fphx1-2.fna.fbcdn.net/hphotos-xfp1/v/t1.0-9/11693985_850774191680013_3700204440993486404_n.jpg?oh=dc515461b7b9ed57a0325be3e715e915&oe=56163563);
+  height:650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.subdivide{
+  
+}
+
+.col-md-3{
+  display:inline-block;
+  
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color:#606060;
+   
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.background{
+  background-image:url(http://subtlepatterns.com/patterns/grey_wash_wall.png)
+}
+
+.container li{
+  list-style-type:none;
+}

@@ -1,0 +1,57 @@
+
+
+
+
+
+<html>
+
+<head>
+
+</head>
+
+<body class="background">
+
+  
+  <div class="nav">
+    <div class="container" <ul>
+      <li class="logo1">Graphic here</li>
+      <li class="nav1"><a href="#">Home</a></li>
+      <li class="nav2"><a href="#">The Band</a></li>
+      <li class="nav3"><a href="#">Our Music</a></li>
+      <li class="nav4"><a href="#">Upcoming Shows</a></li>
+      <li class="nav4"><a href="#">Merch</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="jumbotron">
+    <div class="container">
+
+      <h1>Sweet GFX here</h1>
+      
+    </div>
+  </div>
+
+
+  <h2 class="subdivide"></h2>
+
+  <div class="container">
+    <ul>
+    <li>
+      <a href="https://www.facebook.com/CentralDivides/"><img src="http://www.artwithimpact.org/sites/default/files/images/icon_facebook_0.png" alt='facebookthumb' style='width:40px; height:40px;' /></a>
+    </li>
+    <li>
+      <a href="https://instagram.com/centraldivides/"><img src="http://vignette3.wikia.nocookie.net/shopkin/images/b/b7/Instagram.png/revision/latest?cb=20141124021921" alt="instaThumb" style='width:40px;' /></a>
+    </li>
+    <li>
+      <a href="https://soundcloud.com/CentralDivides"><img src="http://img2.wikia.nocookie.net/__cb20140423005456/fifthharmony/images/f/fb/Soundcloud-icon.png" alt="soundThumb" style='width:40px' /></li>
+    <li>
+      <a href="https://twitter.com/centraldivides"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Twitter_Logo_Mini.svg/500px-Twitter_Logo_Mini.svg.png" alt='twitterThumb' style=width:40px;</li>
+    </ul>
+      </div>
+
+*/
+</body>
+
+</html>
+
